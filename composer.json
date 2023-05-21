@@ -1,0 +1,15 @@
+{
+    "name": "user/test_php",
+    "autoload": {
+        "psr-4": {
+            "User\\TestPhp\\": "file/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leandro",
+            "email": "leandroaugustobarbosaleite@gmail.com"
+        }
+    ],
+    "require": {}
+}
